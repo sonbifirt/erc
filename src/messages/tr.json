@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "contact": "İletişim"
+  },
+  "lang": {
+    "label": "Dil seçin",
+    "ro": "Română",
+    "en": "English",
+    "ru": "Русский",
+    "tr": "Türkçe"
+  },
+  "common": {
+    "brand": "ERC International",
+    "contact": "İletişim",
+    "discover": "Keşfet",
+    "learnMore": "Daha Fazla",
+    "view": "Görüntüle",
+    "getInTouch": "Bize Ulaşın",
+    "tryAgain": "Tekrar dene",
+    "backHome": "Ana Sayfaya Dön",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "account": "Hesap",
+    "search": "Ara"
+  },
+  "home": {
+    "hero": {
+      "title": "Yenilenebilir Enerji Çözümleriyle Geleceği Şekillendiriyoruz",
+      "subtitle": "Temiz enerji kaynaklarıyla daha yeşil bir geleceğe adım atıyoruz. Güneş ve rüzgar enerjisiyle sürdürülebilir bir dünya inşa ediyoruz.",
+      "cta": "Keşfet"
+    },
+    "about": {
+      "title": "Sürdürülebilir Çözümler İçin Buradayız",
+      "description": "ERC International olarak çevreyi korumayı ve yenilikçi enerji çözümlerimizle sürdürülebilir bir dünya inşa etmeyi hedefliyoruz. Doğal kaynakları en verimli şekilde kullanarak gelecek nesillere temiz bir dünya bırakıyoruz.",
+      "statsProjects": "Tamamlanan Proje",
+      "statsExperience": "Yıllık Deneyim"
+    },
+    "chart": {
+      "title": "Büyüyen Temiz Enerji Kapasitesi",
+      "description": "Proje portföyümüzdeki kurulu yenilenebilir kapasite (MW).",
+      "solar": "Güneş",
+      "wind": "Rüzgar"
+    },
+    "services": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Yenilenebilir enerji çözümleriyle sürdürülebilir bir gelecek için çalışıyoruz."
+    },
+    "gallery": {
+      "title": "Enerji Galerisi",
+      "subtitle": "Rüzgar ve güneş enerjisi projelerimizi keşfedin ve temiz enerji çözümlerimiz hakkında bilgi edinin."
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Onlarca yıllık mühendislik deneyimine dayanan güvenilir yenilenebilir enerji çözümleri."
+    },
+    "story": {
+      "p1": "ERC International, yenilenebilir enerji alanında güvenilir çözümler sunmak amacıyla 2022 yılında Moldova'da kurulmuştur. Ana şirketimiz ERC Sistem, Türkiye'de yıllar içinde biriken geniş deneyim ve mühendislik bilgisine sahip sektörde köklü bir firmadır. Bu güçlü temel üzerine inşa edilen ERC International, küresel ölçekte enerji projelerine katkıda bulunmayı hedeflemektedir.",
+      "p2": "Şirketimiz güneş ve rüzgar enerjisi gibi yenilenebilir kaynaklara odaklanan çevre dostu projeler geliştirir ve sürdürülebilir bir geleceğe katkıda bulunmak için çalışır. Hem konut hem de endüstriyel ölçekli projeler için tasarım, malzeme tedariki, kurulum ve enerji depolama çözümleri sunarak ERC International, entegre hizmetler aracılığıyla müşterilerine yenilikçi çözümler sağlar.",
+      "p3": "ERC International olarak enerji sektöründeki deneyimimizi uluslararası arenaya taşımayı, güvenilir, sürdürülebilir ve çevre dostu projelerle geleceği şekillendirmeyi hedefliyoruz. Müşteri memnuniyetini ve kaliteyi en üst düzeyde tutarak enerjiyi daha verimli ve erişilebilir kılmak için çalışmaya devam ediyoruz."
+    },
+    "projects": {
+      "title": "Projelerimiz",
+      "subtitle": "Yenilenebilir enerji projelerimizle sürdürülebilir bir geleceğe katkıda bulunuyoruz. Rüzgar ve güneş enerjisi çözümlerimiz hakkında ayrıntılı bilgi edinin ve çevre dostu uygulamalarımızı keşfedin.",
+      "energySolutions": {
+        "title": "Enerji Çözümleri",
+        "description": "Rüzgar ve güneş enerjisi projeleri hakkında bilgi."
+      },
+      "sustainableProjects": {
+        "title": "Sürdürülebilir Projeler",
+        "description": "Çevre dostu uygulamalarla enerji verimliliğini sağlıyoruz."
+      },
+      "expertise": {
+        "title": "Rüzgar ve Güneş Uzmanlığı",
+        "description": "Konut kurulumlarından endüstriyel ölçekli santrallere kadar Moldova ve ötesinde uçtan uca yenilenebilir enerji çözümleri sunuyoruz."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "subtitle": "Yenilenebilir enerji çözümleriyle sürdürülebilir bir gelecek için çalışıyoruz."
+    },
+    "items": {
+      "wind": {
+        "title": "Rüzgar Enerjisi",
+        "description": "Rüzgar türbinleri ile enerji üretiminde yenilikçi çözümler sunuyoruz."
+      },
+      "solar": {
+        "title": "Güneş Enerjisi",
+        "description": "Güneş panelleri ile temiz enerjiye geçişi destekliyoruz."
+      },
+      "storage": {
+        "title": "Enerji Depolama Çözümleri",
+        "description": "Enerji depolama sistemlerimizle temiz enerji kaynaklarının sürekliliğini sağlıyoruz."
+      },
+      "material": {
+        "title": "Enerji Projelerinde Malzeme Desteği",
+        "description": "Konut binalarından enerji santrallerine kadar enerji projeleri için tam malzeme desteği sağlıyoruz."
+      },
+      "sustainable": {
+        "title": "Sürdürülebilir Çözümler",
+        "description": "Çevre dostu projelerimizle karbon ayak izini azaltan uygulamalar sunuyoruz."
+      }
+    },
+    "projects": {
+      "title": "Projelerimiz",
+      "subtitle": "Yenilenebilir enerji projelerimizle sürdürülebilir bir gelecek.",
+      "wind": {
+        "title": "Rüzgar Enerjisi",
+        "description": "Rüzgar enerjisi projelerimizle doğanın gücünü kullanarak temiz ve sürdürülebilir enerji üretiyoruz. Modern rüzgar türbinlerimiz çevre dostu çözümlerle enerji üretimine katkıda bulunur."
+      },
+      "solar": {
+        "title": "Güneş Enerjisi",
+        "description": "Güneş enerjisi projelerimiz, enerji verimliliğini artırarak sürdürülebilir yaşam alanları oluşturmayı hedefler. Gelişmiş güneş panellerimizle doğaya katkı sağlayan yenilikçi çözümler sunuyoruz."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "subtitle": "Yenilenebilir enerji çözümlerimiz hakkında ayrıntılı bilgi almak veya proje ihtiyaçlarınızı görüşmek için bizimle iletişime geçin. Deneyimli ekibimiz size en uygun çözümleri sunmaya hazırdır."
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "subtitle": "Yenilenebilir enerji çözümlerimiz hakkında ayrıntılı bilgi almak veya proje ihtiyaçlarınızı görüşmek için bizimle iletişime geçin. Deneyimli ekibimiz size en iyi çözümleri sunmaya hazırdır.",
+      "address": "Adres",
+      "hours": "Çalışma Saatleri",
+      "hoursValue": "Pazartesi ile Cuma: 09:00 18:00\nCumartesi ve Pazar: Kapalı",
+      "phone": "Telefon",
+      "email": "E-posta"
+    }
+  },
+  "footer": {
+    "tagline": "Yenilenebilir enerji çözümleriyle sürdürülebilir bir geleceğe katkıda bulunuyoruz.",
+    "corporate": "Kurumsal",
+    "contact": "İletişim",
+    "copyright": "© ERC International 2024. Tüm hakları saklıdır."
+  },
+  "images": {
+    "hero": "Gün batımında güneş panelleri ve rüzgar türbinleri",
+    "aboutBuilding": "Ticari çatıda güneş paneli kurulumu",
+    "windTurbine": "Açık mavi gökyüzünde beyaz rüzgar türbini",
+    "solarRoof": "Çatıya monte edilmiş güneş panelleri",
+    "storage": "Büyük ölçekli güneş ve rüzgar enerji tesisi",
+    "material": "Profesyonel altyapılı güneş paneli dizisi",
+    "sustainable": "Gün batımında yeşil tepelerde rüzgar türbinleri",
+    "gallery1": "Güneş panelleri ve rüzgar türbinlerinin havadan görünümü",
+    "gallery2": "Dağ vadisinde güneş çiftliği ve rüzgar türbinleri",
+    "gallery3": "Parlak güneş ışığı altında havadan güneş enerji çiftliği",
+    "gallery4": "Alacakaranlıkta yeşil tarlada güneş paneli sıraları",
+    "gallery5": "Açık alanda tek rüzgar türbini",
+    "gallery6": "Gün batımında tepelerde rüzgar çiftliği",
+    "gallery7": "Gün batımında siluet halinde rüzgar türbinleri",
+    "gallery8": "Ufukta rüzgar türbini ile güneş panelleri",
+    "contactField": "Açık gökyüzü altında güneş paneli tarlası",
+    "aboutSolarField": "Mavi gökyüzü altında yeşil tarlada güneş panelleri",
+    "aboutWindTurbine": "Mavi gökyüzü altında beyaz elektrik rüzgar türbini",
+    "aboutAerialSolar": "Güneş enerji çiftliğinin havadan fotoğrafı",
+    "aboutSustainable": "Sürdürülebilir manzarada güneş ve rüzgar enerjisi",
+    "aboutWindBlueSky": "Gün batımında rüzgar türbinleri",
+    "projectWind": "Gün batımında siluet halinde rüzgar türbinleri",
+    "projectSolar": "Mavi gökyüzü altında güneş panelleri"
+  },
+  "seo": {
+    "home": {
+      "title": "ERC International | Yenilenebilir Enerji Çözümleri",
+      "description": "Yenilenebilir enerji çözümleriyle geleceği şekillendiriyoruz. Moldova ve ötesinde güneş, rüzgar ve sürdürülebilir enerji projeleri."
+    },
+    "about": {
+      "title": "Hakkımızda | ERC International",
+      "description": "2022 yılında Moldova'da kurulan ERC International hakkında bilgi edinin. Dünya genelinde güvenilir güneş, rüzgar ve yenilenebilir enerji çözümleri."
+    },
+    "services": {
+      "title": "Hizmetlerimiz | ERC International",
+      "description": "Konut ve endüstriyel projeler için rüzgar enerjisi, güneş enerjisi, enerji depolama, malzeme desteği ve sürdürülebilir çözümler."
+    },
+    "contact": {
+      "title": "İletişim | ERC International",
+      "description": "Yenilenebilir enerji çözümleri için ERC International ile iletişime geçin. Kişinău, Moldova telefon, e-posta ve ofis adresi."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "code": "404",
+      "title": "Sayfa bulunamadı",
+      "description": "Aradığınız sayfa mevcut değil veya taşınmış olabilir."
+    },
+    "generic": {
+      "title": "Bir sorun oluştu",
+      "description": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin."
+    }
+  }
+}

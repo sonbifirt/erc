@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Pagina principală",
+    "about": "Despre noi",
+    "services": "Servicii",
+    "contact": "Contact"
+  },
+  "lang": {
+    "label": "Selectează limba",
+    "ro": "Română",
+    "en": "English",
+    "ru": "Русский",
+    "tr": "Türkçe"
+  },
+  "common": {
+    "brand": "ERC International",
+    "contact": "Contact",
+    "discover": "Descoperă",
+    "learnMore": "Află mai mult",
+    "view": "Vezi",
+    "getInTouch": "Contactează-ne",
+    "tryAgain": "Încearcă din nou",
+    "backHome": "Înapoi acasă",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul",
+    "account": "Cont",
+    "search": "Căutare"
+  },
+  "home": {
+    "hero": {
+      "title": "Modelăm viitorul cu soluții de energie regenerabilă",
+      "subtitle": "Facem un pas către un viitor mai verde cu surse de energie curată. Construim o lume sustenabilă cu energie solară și eoliană.",
+      "cta": "Descoperă"
+    },
+    "about": {
+      "title": "Suntem aici pentru soluții sustenabile",
+      "description": "La ERC International, ne propunem să protejăm mediul și să construim o lume sustenabilă cu soluțiile noastre inovatoare de energie. Folosind resursele naturale cât mai eficient, lăsăm o lume curată generațiilor viitoare.",
+      "statsProjects": "Proiecte finalizate",
+      "statsExperience": "Ani de experiență"
+    },
+    "chart": {
+      "title": "Capacitate energetică curată în creștere",
+      "description": "Capacitate regenerabilă instalată în portofoliul nostru de proiecte (MW).",
+      "solar": "Solar",
+      "wind": "Eolian"
+    },
+    "services": {
+      "title": "Serviciile noastre",
+      "subtitle": "Lucrăm pentru un viitor sustenabil cu soluții de energie regenerabilă."
+    },
+    "gallery": {
+      "title": "Galerie energetică",
+      "subtitle": "Descoperiți proiectele noastre eoliene și solare și aflați mai multe despre soluțiile noastre de energie curată."
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Soluții de energie regenerabilă de încredere, bazate pe decenii de experiență în inginerie."
+    },
+    "story": {
+      "p1": "ERC International a fost fondată în Moldova în 2022 cu scopul de a oferi soluții de încredere în domeniul energiei regenerabile. Compania noastră mamă, ERC Sistem, este o firmă bine stabilită în industrie, cu experiență vastă și cunoștințe de inginerie acumulate de-a lungul anilor în Turcia. Pe această fundație solidă, ERC International își propune să contribuie la proiecte energetice la scară globală.",
+      "p2": "Compania noastră dezvoltă proiecte ecologice axate pe surse regenerabile precum energia solară și eoliană și lucrează pentru a contribui la un viitor sustenabil. Oferind soluții pentru proiectare, aprovizionare cu materiale, instalare și stocare a energiei atât pentru proiecte rezidențiale, cât și industriale, ERC International oferă soluții inovatoare clienților prin servicii integrate.",
+      "p3": "La ERC International, ne propunem să aducem experiența noastră din sectorul energetic pe arena internațională, modelând viitorul cu proiecte de încredere, sustenabile și ecologice. Continuăm să lucrăm pentru a face energia mai eficientă și accesibilă, menținând satisfacția clienților și calitatea la cel mai înalt nivel."
+    },
+    "projects": {
+      "title": "Proiectele noastre",
+      "subtitle": "Contribuim la un viitor sustenabil prin proiectele noastre de energie regenerabilă. Obțineți informații detaliate despre soluțiile noastre eoliene și solare și explorați aplicațiile noastre ecologice.",
+      "energySolutions": {
+        "title": "Soluții energetice",
+        "description": "Informații despre proiectele de energie eoliană și solară."
+      },
+      "sustainableProjects": {
+        "title": "Proiecte sustenabile",
+        "description": "Asigurăm eficiența energetică prin aplicații ecologice."
+      },
+      "expertise": {
+        "title": "Expertiză eoliană și solară",
+        "description": "De la instalații rezidențiale la centrale industriale, oferim soluții complete de energie regenerabilă în Moldova și nu numai."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "subtitle": "Lucrăm pentru un viitor sustenabil cu soluții de energie regenerabilă."
+    },
+    "items": {
+      "wind": {
+        "title": "Energie eoliană",
+        "description": "Oferim soluții inovatoare în producția de energie cu turbine eoliene."
+      },
+      "solar": {
+        "title": "Energie solară",
+        "description": "Sprijinim tranziția către energia curată cu panouri solare."
+      },
+      "storage": {
+        "title": "Soluții de stocare a energiei",
+        "description": "Asigurăm continuitatea surselor de energie curată prin sistemele noastre de stocare."
+      },
+      "material": {
+        "title": "Suport material în proiecte energetice",
+        "description": "Oferim suport material complet pentru proiecte energetice, de la clădiri rezidențiale la centrale electrice."
+      },
+      "sustainable": {
+        "title": "Soluții sustenabile",
+        "description": "Oferim aplicații care reduc amprenta de carbon prin proiectele noastre ecologice."
+      }
+    },
+    "projects": {
+      "title": "Proiectele noastre",
+      "subtitle": "Un viitor sustenabil prin proiectele noastre de energie regenerabilă.",
+      "wind": {
+        "title": "Energie eoliană",
+        "description": "Prin proiectele noastre eoliene, valorificăm puterea naturii pentru a produce energie curată și sustenabilă. Turbinele noastre moderne contribuie la producția de energie cu soluții ecologice."
+      },
+      "solar": {
+        "title": "Energie solară",
+        "description": "Proiectele noastre solare urmăresc crearea unor spații de locuit sustenabile prin creșterea eficienței energetice. Oferim soluții inovatoare care contribuie la natură cu panouri solare avansate."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "subtitle": "Contactați-ne pentru informații detaliate despre soluțiile noastre de energie regenerabilă sau pentru a discuta nevoile proiectului dumneavoastră. Echipa noastră experimentată este pregătită să vă ofere cele mai potrivite soluții."
+    },
+    "info": {
+      "title": "Informații de contact",
+      "subtitle": "Contactați-ne pentru informații detaliate despre soluțiile noastre de energie regenerabilă sau pentru a discuta nevoile proiectului dumneavoastră. Echipa noastră experimentată este pregătită să vă ofere cele mai bune soluții.",
+      "address": "Adresă",
+      "hours": "Program de lucru",
+      "hoursValue": "Luni până Vineri: 09:00 18:00\nSâmbătă, Duminică: Închis",
+      "phone": "Telefon",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "tagline": "Contribuim la un viitor sustenabil cu soluții de energie regenerabilă.",
+    "corporate": "Corporate",
+    "contact": "Contact",
+    "copyright": "© ERC International 2024. Toate drepturile rezervate."
+  },
+  "images": {
+    "hero": "Panouri solare și turbine eoliene la apus",
+    "aboutBuilding": "Instalare de panouri solare pe acoperiș comercial",
+    "windTurbine": "Turbină eoliană albă pe cer senin",
+    "solarRoof": "Panouri solare montate pe acoperiș",
+    "storage": "Facilitate energetică solară și eoliană la scară largă",
+    "material": "Parc de panouri solare cu infrastructură profesională",
+    "sustainable": "Turbine eoliene pe dealuri verzi la apus",
+    "gallery1": "Vedere aeriană a panourilor solare și turbinelor eoliene",
+    "gallery2": "Parc solar și turbine eoliene într o vale montană",
+    "gallery3": "Parc solar aerian sub lumină puternică",
+    "gallery4": "Rânduri de panouri solare pe câmp verde la amurg",
+    "gallery5": "Turbină eoliană singulară pe câmp deschis",
+    "gallery6": "Parc eolian pe dealuri la apus",
+    "gallery7": "Turbine eoliene siluetate la apus",
+    "gallery8": "Panouri solare cu turbină eoliană la orizont",
+    "contactField": "Parc de panouri solare sub cer senin",
+    "aboutSolarField": "Panouri solare pe câmp verde sub cer albastru",
+    "aboutWindTurbine": "Turbină eoliană electrică albă sub cer albastru",
+    "aboutAerialSolar": "Fotografie aeriană a unui parc solar",
+    "aboutSustainable": "Energie solară și eoliană peisaj sustenabil",
+    "aboutWindBlueSky": "Turbine eoliene la apus",
+    "projectWind": "Turbine eoliene siluetate la apus",
+    "projectSolar": "Panouri solare sub cer albastru"
+  },
+  "seo": {
+    "home": {
+      "title": "ERC International | Soluții de energie regenerabilă",
+      "description": "Modelăm viitorul cu soluții de energie regenerabilă. Proiecte solare, eoliene și sustenabile în Moldova și nu numai."
+    },
+    "about": {
+      "title": "Despre noi | ERC International",
+      "description": "Aflați despre ERC International, fondată în Moldova în 2022, care oferă soluții solare, eoliene și regenerabile de încredere la nivel mondial."
+    },
+    "services": {
+      "title": "Serviciile noastre | ERC International",
+      "description": "Energie eoliană, solară, stocare, suport material și soluții sustenabile pentru proiecte rezidențiale și industriale."
+    },
+    "contact": {
+      "title": "Contact | ERC International",
+      "description": "Contactați ERC International pentru soluții de energie regenerabilă. Telefon, email și adresă de birou în Chișinău, Moldova."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "code": "404",
+      "title": "Pagina nu a fost găsită",
+      "description": "Pagina pe care o căutați nu există sau a fost mutată."
+    },
+    "generic": {
+      "title": "Ceva nu a funcționat",
+      "description": "A apărut o eroare neașteptată. Vă rugăm să încercați din nou."
+    }
+  }
+}

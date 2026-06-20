@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "lang": {
+    "label": "Select language",
+    "ro": "Română",
+    "en": "English",
+    "ru": "Русский",
+    "tr": "Türkçe"
+  },
+  "common": {
+    "brand": "ERC International",
+    "contact": "Contact",
+    "discover": "Discover",
+    "learnMore": "Learn More",
+    "view": "View",
+    "getInTouch": "Get in Touch",
+    "tryAgain": "Try again",
+    "backHome": "Back to Home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "account": "Account",
+    "search": "Search"
+  },
+  "home": {
+    "hero": {
+      "title": "Shaping the Future with Renewable Energy Solutions",
+      "subtitle": "Let's take a step towards a greener future with clean energy sources. We are building a sustainable world with solar and wind energy.",
+      "cta": "Discover"
+    },
+    "about": {
+      "title": "We Are Here for Sustainable Solutions",
+      "description": "At ERC International, we aim to protect the environment and build a sustainable world with our innovative energy solutions. By using natural resources in the most efficient way, we leave a clean world for future generations.",
+      "statsProjects": "Completed Projects",
+      "statsExperience": "Years of Experience"
+    },
+    "chart": {
+      "title": "Growing Clean Energy Capacity",
+      "description": "Installed renewable capacity across our project portfolio (MW).",
+      "solar": "Solar",
+      "wind": "Wind"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "We are working towards a sustainable future with renewable energy solutions."
+    },
+    "gallery": {
+      "title": "Energy Gallery",
+      "subtitle": "Discover our wind and solar energy projects and learn about our clean energy solutions."
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Reliable renewable energy solutions built on decades of engineering experience."
+    },
+    "story": {
+      "p1": "ERC International was founded in Moldova in 2022 with the aim of providing reliable solutions in the field of renewable energy. Our parent company, ERC Sistem, is a well-established firm in the industry with extensive experience and engineering knowledge accumulated over the years in Turkey. Built on this strong foundation, ERC International aims to contribute to energy projects on a global scale.",
+      "p2": "Our company develops environmentally friendly projects focused on renewable energy sources such as solar and wind energy and works to contribute to a sustainable future. Offering solutions for design, material supply, installation, and energy storage for both residential and industrial-scale projects, ERC International provides innovative solutions to its clients through integrated services.",
+      "p3": "At ERC International, we aim to bring our experience in the energy sector to the international arena, shaping the future with reliable, sustainable, and environmentally friendly projects. We continue to work towards making energy more efficient and accessible while maintaining customer satisfaction and quality at the highest level."
+    },
+    "projects": {
+      "title": "Our Projects",
+      "subtitle": "We contribute to a sustainable future with our renewable energy projects. Get detailed information about our wind and solar energy solutions and explore our environmentally friendly applications.",
+      "energySolutions": {
+        "title": "Energy Solutions",
+        "description": "Information about wind and solar energy projects."
+      },
+      "sustainableProjects": {
+        "title": "Sustainable Projects",
+        "description": "We ensure energy efficiency with eco-friendly applications."
+      },
+      "expertise": {
+        "title": "Wind and Solar Expertise",
+        "description": "From residential installations to industrial scale power plants, we deliver end to end renewable energy solutions across Moldova and beyond."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "subtitle": "We are working towards a sustainable future with renewable energy solutions."
+    },
+    "items": {
+      "wind": {
+        "title": "Wind Energy",
+        "description": "We offer innovative solutions in energy production with wind turbines."
+      },
+      "solar": {
+        "title": "Solar Energy",
+        "description": "We support the transition to clean energy with solar panels."
+      },
+      "storage": {
+        "title": "Energy Storage Solutions",
+        "description": "We ensure the continuity of clean energy sources with our energy storage systems."
+      },
+      "material": {
+        "title": "Material Support in Energy Projects",
+        "description": "We provide full material support for energy projects, from residential buildings to power plants."
+      },
+      "sustainable": {
+        "title": "Sustainable Solutions",
+        "description": "We offer applications that reduce the carbon footprint with our environmentally friendly projects."
+      }
+    },
+    "projects": {
+      "title": "Our Projects",
+      "subtitle": "A sustainable future with our renewable energy projects.",
+      "wind": {
+        "title": "Wind Energy",
+        "description": "Through our wind energy projects, we harness the power of nature to produce clean and sustainable energy. Our modern wind turbines contribute to energy production with environmentally friendly solutions."
+      },
+      "solar": {
+        "title": "Solar Energy",
+        "description": "Our solar energy projects aim to create sustainable living spaces by increasing energy efficiency. We offer innovative solutions that contribute to nature with our advanced solar panels."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "subtitle": "Contact us to get detailed information about our renewable energy solutions or to discuss your project needs. Our experienced team is ready to offer you the most suitable solutions."
+    },
+    "info": {
+      "title": "Contact Information",
+      "subtitle": "Contact us for detailed information about our renewable energy solutions or to discuss your project needs. Our experienced team is ready to provide you with the best solutions.",
+      "address": "Address",
+      "hours": "Working Hours",
+      "hoursValue": "Monday to Friday: 09:00 18:00\nSaturday and Sunday: Closed",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "tagline": "We contribute to a sustainable future with renewable energy solutions.",
+    "corporate": "Corporate",
+    "contact": "Contact",
+    "copyright": "© ERC International 2024. All rights reserved."
+  },
+  "images": {
+    "hero": "Solar panels and wind turbines at golden hour",
+    "aboutBuilding": "Solar panel installation on a commercial rooftop",
+    "windTurbine": "White wind turbine against a clear blue sky",
+    "solarRoof": "Solar panels installed on a rooftop",
+    "storage": "Large scale solar and wind energy facility",
+    "material": "Solar panel array with professional infrastructure",
+    "sustainable": "Wind turbines on green hills at golden hour",
+    "gallery1": "Aerial view of solar panels and wind turbines",
+    "gallery2": "Solar farm and wind turbines in a mountain valley",
+    "gallery3": "Aerial solar energy farm under bright sunlight",
+    "gallery4": "Solar panel rows in a green field at dusk",
+    "gallery5": "Single wind turbine in an open field",
+    "gallery6": "Wind farm on rolling hills at sunset",
+    "gallery7": "Wind turbines silhouetted at sunset",
+    "gallery8": "Solar panels with a wind turbine on the horizon",
+    "contactField": "Solar panel field under a clear sky",
+    "aboutSolarField": "Solar panels on a green field under a blue sky",
+    "aboutWindTurbine": "White electric wind turbine under a blue sky",
+    "aboutAerialSolar": "Aerial photography of a solar energy farm",
+    "aboutSustainable": "Solar and wind energy in a sustainable landscape",
+    "aboutWindBlueSky": "Wind turbines at golden hour",
+    "projectWind": "Wind turbines silhouetted at golden hour",
+    "projectSolar": "Solar panels under a blue sky"
+  },
+  "seo": {
+    "home": {
+      "title": "ERC International | Renewable Energy Solutions",
+      "description": "Shaping the future with renewable energy solutions. Solar, wind, and sustainable energy projects across Moldova and beyond."
+    },
+    "about": {
+      "title": "About Us | ERC International",
+      "description": "Learn about ERC International, founded in Moldova in 2022, delivering reliable solar, wind, and renewable energy solutions worldwide."
+    },
+    "services": {
+      "title": "Our Services | ERC International",
+      "description": "Wind energy, solar energy, energy storage, material support, and sustainable solutions for residential and industrial projects."
+    },
+    "contact": {
+      "title": "Contact | ERC International",
+      "description": "Get in touch with ERC International for renewable energy solutions. Phone, email, and office address in Chișinău, Moldova."
+    }
+  },
+  "errors": {
+    "notFound": {
+      "code": "404",
+      "title": "Page not found",
+      "description": "The page you are looking for does not exist or has been moved."
+    },
+    "generic": {
+      "title": "Something went wrong",
+      "description": "An unexpected error occurred. Please try again."
+    }
+  }
+}
