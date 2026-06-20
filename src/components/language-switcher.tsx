@@ -8,7 +8,11 @@ import { useEffect, useRef, useState } from "react";
 import { localeNames, locales, type Locale } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
 
-export function LanguageSwitcher() {
+type LanguageSwitcherProps = {
+  variant?: "dropdown" | "inline";
+};
+
+export function LanguageSwitcher({ variant = "dropdown" }: LanguageSwitcherProps) {
   const t = useTranslations("lang");
   const locale = useLocale() as Locale;
   const router = useRouter();
@@ -31,40 +35,64 @@ export function LanguageSwitcher() {
     setOpen(false);
   };
 
+  const toggleButtonClass =
+    variant === "inline"
+      ? "flex w-full items-center justify-between rounded-lg px-3 py-2 text-sm font-medium text-erc-slate transition-colors hover:bg-gray-50"
+      : "flex items-center gap-1 text-sm font-medium text-erc-slate transition-colors hover:text-erc-blue";
+
   return (
-    <div ref={ref} className="relative">
+    <div ref={ref} className={variant === "dropdown" ? "relative" : undefined}>
       <button
         type="button"
         onClick={() => setOpen((value) => !value)}
-        className="flex items-center gap-1 text-sm font-medium text-erc-slate transition-colors hover:text-erc-blue"
+        className={toggleButtonClass}
         aria-label={t("label")}
         aria-expanded={open}
       >
-        {localeNames[locale]}
+        <span>{variant === "inline" ? t("label") : localeNames[locale]}</span>
         <ChevronDown
           className={cn("h-4 w-4 transition-transform", open && "rotate-180")}
         />
       </button>
 
-      {open && (
-        <div className="absolute right-0 top-full z-50 mt-2 min-w-[140px] overflow-hidden rounded-xl border border-gray-100 bg-white py-1 shadow-lg">
-          {locales.map((loc) => (
-            <button
-              key={loc}
-              type="button"
-              onClick={() => switchLocale(loc)}
-              className={cn(
-                "block w-full px-4 py-2 text-left text-sm transition-colors hover:bg-gray-50",
-                loc === locale
-                  ? "font-semibold text-erc-blue"
-                  : "text-erc-slate"
-              )}
-            >
-              {t(loc)}
-            </button>
-          ))}
-        </div>
-      )}
+      {open &&
+        (variant === "inline" ? (
+          <div className="mt-1 flex flex-col gap-1 pl-3">
+            {locales.map((loc) => (
+              <button
+                key={loc}
+                type="button"
+                onClick={() => switchLocale(loc)}
+                className={cn(
+                  "rounded-lg px-3 py-2 text-left text-sm transition-colors hover:bg-gray-50",
+                  loc === locale
+                    ? "font-semibold text-erc-blue"
+                    : "text-erc-slate"
+                )}
+              >
+                {t(loc)}
+              </button>
+            ))}
+          </div>
+        ) : (
+          <div className="absolute right-0 top-full z-50 mt-2 min-w-[140px] overflow-hidden rounded-xl border border-gray-100 bg-white py-1 shadow-lg">
+            {locales.map((loc) => (
+              <button
+                key={loc}
+                type="button"
+                onClick={() => switchLocale(loc)}
+                className={cn(
+                  "block w-full px-4 py-2 text-left text-sm transition-colors hover:bg-gray-50",
+                  loc === locale
+                    ? "font-semibold text-erc-blue"
+                    : "text-erc-slate"
+                )}
+              >
+                {t(loc)}
+              </button>
+            ))}
+          </div>
+        ))}
     </div>
   );
 }

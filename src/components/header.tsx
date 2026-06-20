@@ -105,7 +105,7 @@ export function Header() {
             ))}
           </nav>
           <div className="mt-4 border-t border-gray-100 pt-4">
-            <LanguageSwitcher />
+            <LanguageSwitcher variant="inline" />
           </div>
         </div>
       )}
